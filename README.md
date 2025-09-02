@@ -83,4 +83,4 @@ python imdb_analysis.py
 📌 Author
 Hifza
 
-👩‍💻 Created by Hifza Akram
+👩‍💻 Created by Hifza shoaib
